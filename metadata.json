@@ -1,0 +1,6 @@
+{
+  "name": "Don't Wake the Ghost",
+  "description": "An original cinematic 2D puzzle-platform horror adventure. Explore an abandoned mansion, solve environmental puzzles, and avoid the eerie monster.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
